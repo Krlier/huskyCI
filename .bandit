@@ -2,7 +2,9 @@
 tests:
 
 # (optional) list skipped test IDs here, eg '[B101, B406]':
-skips: ['B101']
+skips:
+
+exclude: ./tests/*
 
 any_other_function_with_shell_equals_true:
   no_shell:
