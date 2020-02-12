@@ -1,7 +1,2 @@
-# (optional) list included test IDs here, eg '[B101, B406]':
-tests:
-
-# (optional) list skipped test IDs here, eg '[B101, B406]':
-skips:
-
-exclude: ./tests/*
+[bandit]
+exclude: /tests
