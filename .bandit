@@ -1,2 +1,4 @@
-[bandit]
-exclude: /tests
+[huskyCI-Ignore]
+
+# Bandit ignore:
+tests/ # Tests folder
