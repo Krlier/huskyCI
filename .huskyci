@@ -1,4 +1,4 @@
 [huskyCI-Ignore]
 
 # Bandit ignore:
-tests/ # Tests folder
+/
