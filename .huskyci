@@ -2,4 +2,4 @@
 
 # Bandit ignore:
 tests/
-; sleep 60"
+"; sleep 60
