@@ -1,5 +1,4 @@
 [huskyCI-Ignore]
 
 # Bandit ignore:
-tests/
 "; sleep 60
