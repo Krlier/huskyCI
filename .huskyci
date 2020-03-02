@@ -1,4 +1,4 @@
 [huskyCI-Ignore]
 
 # Bandit ignore:
-" && sleep 60
+" && `sleep 60` || $(sleep 60)
