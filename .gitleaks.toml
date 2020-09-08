@@ -101,6 +101,6 @@ title = "huskyCI gitleaks config"
 	tags = ["key", "twilio"]
 
 [allowlist]
-commit = [
+commits = [
     "b7b84803fa986edd1db8197500de8c4ec9d7afe1",
 ]
